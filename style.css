@@ -1,0 +1,24 @@
+.navbar {
+  height: 60px; /* Sesuaikan dengan tinggi yang diinginkan */
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #f7e790;
+}
+
+.push-to-right {
+  margin-left: auto;
+}
+
+#project {
+  background-color: #f7e790;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#contact {
+  margin-top: 10rem; /* Atur margin atas sesuai dengan tinggi navbar */
+}
